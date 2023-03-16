@@ -1,8 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap");
-
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", "Raleway", sans-serif;
   font-weight: 400;
+  letter-spacing: 0.03em;
   color: #212121;
 }
 
@@ -42,6 +41,7 @@ body {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.17;
+  letter-spacing: 0.02em;
   color: inherit;
   text-decoration: none;
 }
@@ -55,6 +55,7 @@ body {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.17;
+  letter-spacing: 0.02em;
   color: var(--color-p);
   text-decoration: none;
 }
@@ -68,6 +69,7 @@ body {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
+  letter-spacing: 0.06em;
   color: var(--color-white);
 }
 
@@ -79,8 +81,14 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
+  letter-spacing: 0.06em;
   color: var(--color-white);
   background-color: var(--color-blue);
+}
+
+.order-button:hover,
+.order-button:focus {
+  cursor: pointer;
 }
 
 .about-us {
@@ -158,6 +166,7 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
+  letter-spacing: 0.06em;
 }
 
 .portfolio-item p {
