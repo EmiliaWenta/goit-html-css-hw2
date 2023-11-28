@@ -1,2 +1,3 @@
 # goit-html-hw2
-Make HTML markup and some styling for portfolio site.
+Purpose of the task was making HTML markup and some styling for porfolio and agencja site based on the templated in figma. 
+
