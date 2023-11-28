@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-zadanie domowe nr 2 z kursu
+# goit-html-hw2
+Make HTML markup and some styling for portfolio site.
